@@ -27,6 +27,9 @@ This repository is a **portfolio piece**, not an open hardware project. It docum
 - Photos of internal machine components that constitute trade-secret-equivalent disclosure.
 - The vendor name or model number of the original tumbler oven.
 
+![Custom-fabricated stainless-steel hardware for the tumbler-oven repair, 2023](photos/2023-03-01%2015.07.51.jpg)
+*Representative shop work from the project — a fabricated stainless-steel subassembly, welded and machined to spec, replacing a black-box component for which no original drawings were available.*
+
 ## Why this work mattered
 
 Uniformity's value proposition is metal powders with unusually low porosity and high packing density. That advantage compounds through the powder-conditioning workflow — meaning when a piece of conditioning equipment goes down, the company's throughput drops with it. Diagnostic-and-repair work like this isn't peripheral to Uniformity's engineering; it's adjacent to the core technology.
