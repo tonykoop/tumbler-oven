@@ -3,7 +3,7 @@
 > *Reverse-engineering and repair of a large industrial tumbler oven used to process powdered metal feedstock for additive manufacturing (LPBF and binder jetting), at Uniformity Labs (Fremont, CA), 2022–2023.*
 
 ![Hero photo](images/00-hero-tumbler-oven.jpg)
-*(placeholder)*
+*The industrial tumbler oven in the Uniformity Labs powder-processing room — a large rotating thermal system whose failure mode had to be diagnosed from physical inspection, instrumentation, and reverse-engineering rather than from a tidy service manual.*
 
 ## What this is
 
