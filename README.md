@@ -13,6 +13,8 @@ This work was performed during my Metal 3D Print Specialist tenure at **Uniformi
 
 This repository is a **portfolio piece**, not an open hardware project. It documents the work I did from my perspective as the engineer on site, but **the equipment itself, all CAD/drawing data, and all process know-how are the proprietary property of Uniformity Labs.** See [`NOTICE.md`](NOTICE.md).
 
+Sister repositories: [`metal-powder-flow-device`](https://github.com/tonykoop/metal-powder-flow-device), [`additive-manufacturing`](https://github.com/tonykoop/additive-manufacturing), [`cnc`](https://github.com/tonykoop/cnc), and [`tensile-testing`](https://github.com/tonykoop/tensile-testing). This repo sits upstream in that chain: powder conditioning before flow characterization, print, machining, and validation.
+
 ## What you will and won't find
 
 **You will find:**
